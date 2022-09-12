@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ParcelSortingTARgv21
 {
-    internal class Program
+    public class Program
     {
         static void Main()
         {
